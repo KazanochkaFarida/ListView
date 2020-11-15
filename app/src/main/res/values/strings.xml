@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ListView</string>
+    <string name="Ar">Флаг Аргентины</string>
+    <string name="Br">Флаг Бразилии</string>
+    <string name="Cl">Флаг Чили</string>
+    <string name="Co">Флаг Колумбии</string>
+</resources>
